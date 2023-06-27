@@ -1,0 +1,24 @@
+{
+  "start": "ts-node index.ts",
+  "name": "supportbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorinBarbuSoftwire/SupportBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorinBarbuSoftwire/SupportBank/issues"
+  },
+  "homepage": "https://github.com/SorinBarbuSoftwire/SupportBank#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "typescript": "^5.1.3"
+  }
+}
